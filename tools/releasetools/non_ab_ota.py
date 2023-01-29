@@ -222,14 +222,15 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
 
   #Print ASCII
   script.Print("--------------------------------------------------");
-  script.Print("|                    __                          |");
-  script.Print("|        /\  _  _ _ |_   |_ _  _  _| _  _|       |");
-  script.Print("|       /--\(_)_)|_)|__><|_(-`| )(_|(-`(_|       |");
-  script.Print("|                |                               |");
-  script.Print("|                                                |");
+  script.Print("|    ┏━┓┏━╸╻ ╻                                   |");
+  script.Print("|    ┣━┫┣╸ ┏╋┛                                   |");
+  script.Print("|    ╹ ╹┗━╸╹ ╹                                   |");
+  script.Print("|                 ┏━┓┏━╸╺┳╸┏━╸┏━┓╻  ╻┏━╸┏━╸      |");
+  script.Print("|                 ┣━┫┣╸  ┃ ┣╸ ┣┳┛┃  ┃┣╸ ┣╸       |");
+  script.Print("|                 ╹ ╹╹   ╹ ┗━╸╹┗╸┗━╸╹╹  ┗━╸      |");
   script.Print("--------------------------------------------------");
   script.Print("--------------------------------------------------");
-  script.Print("|                  By:-TeamAEX                   |");
+  script.Print("|                 By:-WizardPrjkt                |");
   script.Print("--------------------------------------------------");
   script.Print(" ")
   script.AppendExtra("sleep (2);")
