@@ -230,7 +230,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("|                 ╹ ╹╹   ╹ ┗━╸╹┗╸┗━╸╹╹  ┗━╸      |");
   script.Print("--------------------------------------------------");
   script.Print("--------------------------------------------------");
-  script.Print("|                 By:-WizardPrjkt                |");
+  script.Print("|               By:-SubsZeroPrjkt                |");
   script.Print("--------------------------------------------------");
   script.Print(" ")
   script.AppendExtra("sleep (2);")
